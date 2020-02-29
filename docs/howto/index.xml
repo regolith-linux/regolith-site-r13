@@ -1,12 +1,12 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regolith – How To</title>
-    <link>https://regolith-linux.org/docs/howto/</link>
+    <link>http://regolith-linux.org/regolith-site-r13/docs/howto/</link>
     <description>Recent content in How To on Regolith</description>
     <generator>Hugo -- gohugo.io</generator>
     <lastBuildDate>Wed, 04 Jan 2017 00:00:00 +0000</lastBuildDate>
     
-	  <atom:link href="https://regolith-linux.org/docs/howto/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://regolith-linux.org/regolith-site-r13/docs/howto/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -16,10 +16,10 @@
     
     <item>
       <title>Docs: Stage config files</title>
-      <link>https://regolith-linux.org/docs/howto/stage-configs/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/howto/stage-configs/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/howto/stage-configs/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/howto/stage-configs/</guid>
       <description>
         
         
@@ -53,10 +53,10 @@ $ cp /etc/regolith/i3/config ~/.config/regolith/i3/config
     
     <item>
       <title>Docs: Change the super key mapping</title>
-      <link>https://regolith-linux.org/docs/howto/super-to-alt/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/howto/super-to-alt/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/howto/super-to-alt/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/howto/super-to-alt/</guid>
       <description>
         
         
@@ -73,10 +73,10 @@ $ cp /etc/regolith/i3/config ~/.config/regolith/i3/config
     
     <item>
       <title>Docs: Change the default terminal</title>
-      <link>https://regolith-linux.org/docs/howto/change-terminal/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/howto/change-terminal/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/howto/change-terminal/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/howto/change-terminal/</guid>
       <description>
         
         
@@ -96,10 +96,10 @@ To: &lt;code&gt;bindsym $mod+Return exec gnome-terminal&lt;/code&gt;&lt;/li&gt;
     
     <item>
       <title>Docs: Support multiple batteries</title>
-      <link>https://regolith-linux.org/docs/howto/multiple-batteries/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/howto/multiple-batteries/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/howto/multiple-batteries/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/howto/multiple-batteries/</guid>
       <description>
         
         
@@ -141,10 +141,10 @@ instance=BAT1
     
     <item>
       <title>Docs: Change the bar date/time format</title>
-      <link>https://regolith-linux.org/docs/howto/time-format/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/howto/time-format/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/howto/time-format/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/howto/time-format/</guid>
       <description>
         
         
@@ -195,10 +195,10 @@ instance=BAT1
     
     <item>
       <title>Docs: Change bar status indicators</title>
-      <link>https://regolith-linux.org/docs/howto/add-remove-blocklets/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/howto/add-remove-blocklets/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/howto/add-remove-blocklets/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/howto/add-remove-blocklets/</guid>
       <description>
         
         
@@ -232,10 +232,10 @@ interval=10
     
     <item>
       <title>Docs: Change workspace labels</title>
-      <link>https://regolith-linux.org/docs/howto/remove-workspace-icons/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/howto/remove-workspace-icons/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/howto/remove-workspace-icons/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/howto/remove-workspace-icons/</guid>
       <description>
         
         
@@ -263,16 +263,16 @@ i3-wm.workspace.03.name: Chat
     
     <item>
       <title>Docs: Switch between Regolith PPAs</title>
-      <link>https://regolith-linux.org/docs/howto/change-ppa/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/howto/change-ppa/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/howto/change-ppa/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/howto/change-ppa/</guid>
       <description>
         
         
         &lt;p&gt;This page describes how to configure the package system to consume Regolith packages between a set of PPAs.&lt;/p&gt;
 &lt;h2 id=&#34;regolith-ppas&#34;&gt;Regolith PPAs&lt;/h2&gt;
-&lt;p&gt;See this section for a description of &lt;a href=&#34;https://regolith-linux.org/docs/getting-started/install/#ppa-sources&#34;&gt;each PPA&lt;/a&gt;.  By default users will be on the &lt;code&gt;release&lt;/code&gt; PPA which is intended to only be updated upon bug fixes and versioned releases.  Here is how to switch to the &lt;code&gt;unstable&lt;/code&gt; PPA, by updating the apt packaging configuration:&lt;/p&gt;
+&lt;p&gt;See this section for a description of &lt;a href=&#34;http://regolith-linux.org/regolith-site-r13/docs/getting-started/install/#ppa-sources&#34;&gt;each PPA&lt;/a&gt;.  By default users will be on the &lt;code&gt;release&lt;/code&gt; PPA which is intended to only be updated upon bug fixes and versioned releases.  Here is how to switch to the &lt;code&gt;unstable&lt;/code&gt; PPA, by updating the apt packaging configuration:&lt;/p&gt;
 &lt;ol&gt;
 &lt;li&gt;Remove the existing &lt;code&gt;release&lt;/code&gt; PPA:&lt;/li&gt;
 &lt;/ol&gt;
@@ -297,10 +297,10 @@ $ sudo apt update
     
     <item>
       <title>Docs: Change the terminal font size</title>
-      <link>https://regolith-linux.org/docs/howto/terminal-font/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/howto/terminal-font/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/howto/terminal-font/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/howto/terminal-font/</guid>
       <description>
         
         

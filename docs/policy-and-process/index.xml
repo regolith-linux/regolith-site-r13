@@ -1,11 +1,11 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Regolith – Policy and Process</title>
-    <link>https://regolith-linux.org/docs/policy-and-process/</link>
+    <link>http://regolith-linux.org/regolith-site-r13/docs/policy-and-process/</link>
     <description>Recent content in Policy and Process on Regolith</description>
     <generator>Hugo -- gohugo.io</generator>
     
-	  <atom:link href="https://regolith-linux.org/docs/policy-and-process/index.xml" rel="self" type="application/rss+xml" />
+	  <atom:link href="http://regolith-linux.org/regolith-site-r13/docs/policy-and-process/index.xml" rel="self" type="application/rss+xml" />
     
     
       
@@ -15,10 +15,10 @@
     
     <item>
       <title>Docs: Privacy</title>
-      <link>https://regolith-linux.org/docs/policy-and-process/privacy/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/policy-and-process/privacy/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/policy-and-process/privacy/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/policy-and-process/privacy/</guid>
       <description>
         
         
@@ -29,15 +29,15 @@
     
     <item>
       <title>Docs: Updates</title>
-      <link>https://regolith-linux.org/docs/policy-and-process/updates/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/policy-and-process/updates/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/policy-and-process/updates/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/policy-and-process/updates/</guid>
       <description>
         
         
         &lt;h2 id=&#34;configuration-files&#34;&gt;Configuration Files&lt;/h2&gt;
-&lt;p&gt;Regolith Linux is continually being updated with bug fixes and feature enhancements.  Regolith&#39;s default configuration files live in &lt;code&gt;/etc/regolith/&lt;/code&gt;.  To customize these files, &lt;a href=&#34;https://regolith-linux.org/docs/howto/stage-configs/&#34;&gt;make copies in your user directory&lt;/a&gt; and make changes there.  These copied files in the user directory are owned by the user and will not be modified by Regolith.&lt;/p&gt;
+&lt;p&gt;Regolith Linux is continually being updated with bug fixes and feature enhancements.  Regolith&#39;s default configuration files live in &lt;code&gt;/etc/regolith/&lt;/code&gt;.  To customize these files, &lt;a href=&#34;http://regolith-linux.org/regolith-site-r13/docs/howto/stage-configs/&#34;&gt;make copies in your user directory&lt;/a&gt; and make changes there.  These copied files in the user directory are owned by the user and will not be modified by Regolith.&lt;/p&gt;
 &lt;h2 id=&#34;package-updates&#34;&gt;Package Updates&lt;/h2&gt;
 &lt;p&gt;Notification of upcoming updates including those that may introduce breaking changes will be announced on the &lt;a href=&#34;https://www.freelists.org/list/regolith-linux&#34;&gt;Regolith Linux Announcements mailing list&lt;/a&gt;.  Whenever possible, breaking changes will be confined to major version releases of Regolith.&lt;/p&gt;
 &lt;p&gt;Once a package has been published to the &lt;code&gt;release&lt;/code&gt; PPA, Ubuntu&#39;s built-in package update facility will find the update and either directly apply it or ask the user if they wish to do so, depending on configuration.&lt;/p&gt;
@@ -49,10 +49,10 @@
     
     <item>
       <title>Docs: Contribute</title>
-      <link>https://regolith-linux.org/docs/policy-and-process/contributions/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/policy-and-process/contributions/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/policy-and-process/contributions/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/policy-and-process/contributions/</guid>
       <description>
         
         
@@ -62,7 +62,7 @@
 &lt;h2 id=&#34;join-our-slack-channel&#34;&gt;Join our Slack channel&lt;/h2&gt;
 &lt;p&gt;Click &lt;a href=&#34;https://regolith-linux.herokuapp.com/&#34;&gt;this link&lt;/a&gt; to join our Slack channel, which allows you to communicate with the developers of Regolith and other users. Here is where we brainstorm about new features, ways to improve current features, and fix bugs.&lt;/p&gt;
 &lt;h2 id=&#34;testing-fixes-and-features&#34;&gt;Testing Fixes and Features&lt;/h2&gt;
-&lt;p&gt;When bugs are reported by users, we try to have them verify the fix before enabling the update for everyone. Switching to the &lt;code&gt;unstable&lt;/code&gt; PPA is necessary for Ubuntu to see that a new version of a package is available for testing a new fix or feature.  Once the update has been verified to resolve the problem and not cause any other bugs, it is promoted to the &lt;code&gt;stable&lt;/code&gt; PPA for general consumption by Regolith users.  See &lt;a href=&#34;../updates#package-promotion&#34;&gt;this section&lt;/a&gt; for more details on package promotion, and see &lt;a href=&#34;https://regolith-linux.org/docs/howto/change-ppa/&#34;&gt;this section&lt;/a&gt; to learn how to switch between PPAs.&lt;/p&gt;
+&lt;p&gt;When bugs are reported by users, we try to have them verify the fix before enabling the update for everyone. Switching to the &lt;code&gt;unstable&lt;/code&gt; PPA is necessary for Ubuntu to see that a new version of a package is available for testing a new fix or feature.  Once the update has been verified to resolve the problem and not cause any other bugs, it is promoted to the &lt;code&gt;stable&lt;/code&gt; PPA for general consumption by Regolith users.  See &lt;a href=&#34;../updates#package-promotion&#34;&gt;this section&lt;/a&gt; for more details on package promotion, and see &lt;a href=&#34;http://regolith-linux.org/regolith-site-r13/docs/howto/change-ppa/&#34;&gt;this section&lt;/a&gt; to learn how to switch between PPAs.&lt;/p&gt;
 &lt;h2 id=&#34;switching-between-ppas&#34;&gt;Switching between PPAs&lt;/h2&gt;
 &lt;p&gt;When bugs are reported by users, we try to have them verify the fix before enabling the update for everyone. Switching to the &lt;code&gt;unstable&lt;/code&gt; PPA is necessary for testing a new fix or feature before it becomes available to the general population via an automatic update.  See this section for more details on package promotion.&lt;/p&gt;
 &lt;h2 id=&#34;official-regolith-contributors&#34;&gt;Official Regolith Contributors&lt;/h2&gt;
@@ -82,10 +82,10 @@
     
     <item>
       <title>Docs: Support</title>
-      <link>https://regolith-linux.org/docs/policy-and-process/support/</link>
+      <link>http://regolith-linux.org/regolith-site-r13/docs/policy-and-process/support/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
       
-      <guid>https://regolith-linux.org/docs/policy-and-process/support/</guid>
+      <guid>http://regolith-linux.org/regolith-site-r13/docs/policy-and-process/support/</guid>
       <description>
         
         
